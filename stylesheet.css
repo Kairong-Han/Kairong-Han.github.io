@@ -133,3 +133,10 @@ h2 {
 span.highlight {
   background-color: #ffffd0;
 }
+
+tr {
+  border-bottom: 1px solid #ccc; /* 给每行加下边框 */
+}
+tr:last-child {
+  border-bottom: none; /* 最后一行不要分割线 */
+}
