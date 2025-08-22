@@ -42,7 +42,7 @@ My research interests mainly revolve around LLM, Agent and Causality.
 [![code](https://img.shields.io/badge/code-D--Fusion-blue)](https://github.com/hu-zijing/D-Fusion)&nbsp;
 
 </div> -->
-* **Kairong Han**, Wenshuo Zhao, Ziyu Zhao, JunJian Ye, Lujia Pan2, Kun Kuang
+* **Kairong Han**, Wenshuo Zhao, Ziyu Zhao, JunJian Ye, Lujia Pan, Kun Kuang
 * *EMNLP main*, 2025
 ---
 
