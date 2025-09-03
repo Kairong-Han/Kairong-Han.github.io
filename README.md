@@ -37,9 +37,11 @@ My research interests mainly revolve around LLM, Agent and Causality.
 **CAT: Causal Attention Tuning For Injecting Fine-grained Causal Knowledge into Large Language Models**
 <!-- <div> -->
 
-*paper and code will come soon.* 
+[![arXiv](https://img.shields.io/badge/arxiv-2509.01535-b31b1b)](https://arxiv.org/abs/2509.01535)&nbsp; 
+[![code](https://img.shields.io/badge/code-CAT-blue)](https://github.com/Kairong-Han/CAT)&nbsp;
+
 <!-- [![arXiv](https://img.shields.io/badge/arxiv-2505.22002-b31b1b)](https://arxiv.org/abs/2505.22002)&nbsp;
-[![code](https://img.shields.io/badge/code-D--Fusion-blue)](https://github.com/hu-zijing/D-Fusion)&nbsp;
+
 
 </div> -->
 * **Kairong Han**, Wenshuo Zhao, Ziyu Zhao, JunJian Ye, Lujia Pan, Kun Kuang
